@@ -26,7 +26,7 @@ import shutil
 import struct
 import subprocess
 import sys
-from datetime import datetime, timezone
+from datetime import datetime
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -261,7 +261,6 @@ def main():
 
     OUT_JSON.parent.mkdir(parents=True, exist_ok=True)
     OUT_JSON.write_text(json.dumps({
-        "wygenerowano": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "zdjecia": photos,
         "bez_gps": no_gps,
     }, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
