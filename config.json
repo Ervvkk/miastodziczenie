@@ -1,0 +1,59 @@
+{
+  "tytul": "Miastodziczenie",
+  "podtytul": "baza danych",
+  "mapa": {
+    "styl": "https://tiles.openfreemap.org/styles/positron",
+    "granice": [
+      [
+        20.85,
+        52.095
+      ],
+      [
+        21.275,
+        52.37
+      ]
+    ]
+  },
+  "tagi": {
+    "0": {
+      "nazwa": "przedept",
+      "kolor": "#F6C6C7"
+    },
+    "1": {
+      "nazwa": "dekonstrukcja",
+      "kolor": "#FAD9B8"
+    },
+    "2": {
+      "nazwa": "produktywność",
+      "kolor": "#F6EBA9"
+    },
+    "3": {
+      "nazwa": "anarchia",
+      "kolor": "#D3EDBE"
+    },
+    "4": {
+      "nazwa": "automatyzacja",
+      "kolor": "#B9E6D8"
+    },
+    "5": {
+      "nazwa": "geopolityka",
+      "kolor": "#BFDDF5"
+    },
+    "6": {
+      "nazwa": "post–",
+      "kolor": "#CFCBF4"
+    },
+    "7": {
+      "nazwa": "deficyt",
+      "kolor": "#EBC9EF"
+    },
+    "8": {
+      "nazwa": "suwerenność",
+      "kolor": "#F4CFDF"
+    },
+    "9": {
+      "nazwa": "adaptacja",
+      "kolor": "#DDE3BF"
+    }
+  }
+}

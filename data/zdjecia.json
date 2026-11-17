@@ -1,0 +1,246 @@
+{
+  "wygenerowano": "2026-11-17T21:18:22Z",
+  "zdjecia": [
+    {
+      "id": "IMG2197",
+      "plik": "zdjecia/IMG2197_256.jpeg",
+      "tagi": [
+        "2",
+        "5",
+        "6"
+      ],
+      "opis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in mauris eu nibh euismod gravida.",
+      "lat": 52.266231,
+      "lon": 20.974925,
+      "data": "2026-03-04",
+      "wersja": "546ba22bb8",
+      "miniatura": "data/miniatury/IMG2197_256.jpg?v=546ba22bb8",
+      "podglad": "data/podglady/IMG2197_256.jpg?v=546ba22bb8"
+    },
+    {
+      "id": "IMG2322",
+      "plik": "zdjecia/IMG2322_158.jpeg",
+      "tagi": [
+        "1",
+        "5",
+        "8"
+      ],
+      "opis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "lat": 52.231675,
+      "lon": 21.016572,
+      "data": "2026-03-23",
+      "wersja": "7038c4ab28",
+      "miniatura": "data/miniatury/IMG2322_158.jpg?v=7038c4ab28",
+      "podglad": "data/podglady/IMG2322_158.jpg?v=7038c4ab28"
+    },
+    {
+      "id": "IMG2354",
+      "plik": "zdjecia/IMG2354_013.jpeg",
+      "tagi": [
+        "0",
+        "1",
+        "3"
+      ],
+      "opis": "Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "lat": 52.266308,
+      "lon": 20.975125,
+      "data": "2026-03-26",
+      "wersja": "f666d4a597",
+      "miniatura": "data/miniatury/IMG2354_013.jpg?v=f666d4a597",
+      "podglad": "data/podglady/IMG2354_013.jpg?v=f666d4a597"
+    },
+    {
+      "id": "IMG2376",
+      "plik": "zdjecia/IMG2376_139.jpeg",
+      "tagi": [
+        "1",
+        "3",
+        "9"
+      ],
+      "opis": "Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "lat": 52.236817,
+      "lon": 21.024569,
+      "data": "2026-03-28",
+      "wersja": "d47a6c9826",
+      "miniatura": "data/miniatury/IMG2376_139.jpg?v=d47a6c9826",
+      "podglad": "data/podglady/IMG2376_139.jpg?v=d47a6c9826"
+    },
+    {
+      "id": "IMG2398",
+      "plik": "zdjecia/IMG2398_139.jpeg",
+      "tagi": [
+        "1",
+        "3",
+        "9"
+      ],
+      "opis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "lat": 52.236933,
+      "lon": 21.024511,
+      "data": "2026-03-31",
+      "wersja": "cca1445be3",
+      "miniatura": "data/miniatury/IMG2398_139.jpg?v=cca1445be3",
+      "podglad": "data/podglady/IMG2398_139.jpg?v=cca1445be3"
+    },
+    {
+      "id": "IMG2407",
+      "plik": "zdjecia/IMG2407_069.jpeg",
+      "tagi": [
+        "0",
+        "6",
+        "9"
+      ],
+      "opis": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "lat": 52.231633,
+      "lon": 21.016717,
+      "data": "2026-04-01",
+      "wersja": "40c9d2d870",
+      "miniatura": "data/miniatury/IMG2407_069.jpg?v=40c9d2d870",
+      "podglad": "data/podglady/IMG2407_069.jpg?v=40c9d2d870"
+    },
+    {
+      "id": "IMG2573",
+      "plik": "zdjecia/IMG2573_248.jpeg",
+      "tagi": [
+        "2",
+        "4",
+        "8"
+      ],
+      "opis": "Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "lat": 52.26685,
+      "lon": 20.973725,
+      "data": "2026-04-17",
+      "wersja": "3f059ba887",
+      "miniatura": "data/miniatury/IMG2573_248.jpg?v=3f059ba887",
+      "podglad": "data/podglady/IMG2573_248.jpg?v=3f059ba887"
+    },
+    {
+      "id": "IMG2654",
+      "plik": "zdjecia/IMG2654_148.jpeg",
+      "tagi": [
+        "1",
+        "4",
+        "8"
+      ],
+      "opis": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "lat": 52.242836,
+      "lon": 21.025586,
+      "data": "2026-04-27",
+      "wersja": "4983e2e714",
+      "miniatura": "data/miniatury/IMG2654_148.jpg?v=4983e2e714",
+      "podglad": "data/podglady/IMG2654_148.jpg?v=4983e2e714"
+    },
+    {
+      "id": "IMG5334",
+      "plik": "zdjecia/IMG5334_359.jpeg",
+      "tagi": [
+        "3",
+        "5",
+        "9"
+      ],
+      "opis": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "lat": 52.232156,
+      "lon": 21.010761,
+      "data": "2026-09-23",
+      "wersja": "52dfc8d396",
+      "miniatura": "data/miniatury/IMG5334_359.jpg?v=52dfc8d396",
+      "podglad": "data/podglady/IMG5334_359.jpg?v=52dfc8d396"
+    },
+    {
+      "id": "IMG5407",
+      "plik": "zdjecia/IMG5407_013.jpeg",
+      "tagi": [
+        "0",
+        "1",
+        "3"
+      ],
+      "opis": "Integer in mauris eu nibh euismod gravida. Curabitur pretium tincidunt lacus, nulla gravida orci a odio.",
+      "lat": 52.266158,
+      "lon": 20.974739,
+      "data": "2026-09-30",
+      "wersja": "08ff173eff",
+      "miniatura": "data/miniatury/IMG5407_013.jpg?v=08ff173eff",
+      "podglad": "data/podglady/IMG5407_013.jpg?v=08ff173eff"
+    },
+    {
+      "id": "IMG5545",
+      "plik": "zdjecia/IMG5545_568.jpeg",
+      "tagi": [
+        "5",
+        "6",
+        "8"
+      ],
+      "opis": "Integer in mauris eu nibh euismod gravida. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "lat": 52.250828,
+      "lon": 20.974797,
+      "data": "2026-10-13",
+      "wersja": "43e0bf6753",
+      "miniatura": "data/miniatury/IMG5545_568.jpg?v=43e0bf6753",
+      "podglad": "data/podglady/IMG5545_568.jpg?v=43e0bf6753"
+    },
+    {
+      "id": "IMG5742",
+      "plik": "zdjecia/IMG5742_457.jpeg",
+      "tagi": [
+        "4",
+        "5",
+        "7"
+      ],
+      "opis": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris.",
+      "lat": 52.226422,
+      "lon": 20.997361,
+      "data": "2026-11-03",
+      "wersja": "4a05335928",
+      "miniatura": "data/miniatury/IMG5742_457.jpg?v=4a05335928",
+      "podglad": "data/podglady/IMG5742_457.jpg?v=4a05335928"
+    },
+    {
+      "id": "IMG5752",
+      "plik": "zdjecia/IMG5752_123.jpeg",
+      "tagi": [
+        "1",
+        "2",
+        "3"
+      ],
+      "opis": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Integer in mauris eu nibh euismod gravida.",
+      "lat": 52.234117,
+      "lon": 21.017828,
+      "data": "2026-11-05",
+      "wersja": "9a7f19411f",
+      "miniatura": "data/miniatury/IMG5752_123.jpg?v=9a7f19411f",
+      "podglad": "data/podglady/IMG5752_123.jpg?v=9a7f19411f"
+    },
+    {
+      "id": "IMG5811",
+      "plik": "zdjecia/IMG5811_579.jpeg",
+      "tagi": [
+        "5",
+        "7",
+        "9"
+      ],
+      "opis": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Integer in mauris eu nibh euismod gravida.",
+      "lat": 52.231694,
+      "lon": 21.016664,
+      "data": "2026-11-14",
+      "wersja": "c1978426d5",
+      "miniatura": "data/miniatury/IMG5811_579.jpg?v=c1978426d5",
+      "podglad": "data/podglady/IMG5811_579.jpg?v=c1978426d5"
+    },
+    {
+      "id": "IMG5835",
+      "plik": "zdjecia/IMG5835_169.jpeg",
+      "tagi": [
+        "1",
+        "6",
+        "9"
+      ],
+      "opis": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris.",
+      "lat": 52.233314,
+      "lon": 21.028644,
+      "data": "2026-11-16",
+      "wersja": "68d5302302",
+      "miniatura": "data/miniatury/IMG5835_169.jpg?v=68d5302302",
+      "podglad": "data/podglady/IMG5835_169.jpg?v=68d5302302"
+    }
+  ],
+  "bez_gps": []
+}

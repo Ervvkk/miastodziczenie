@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>miastodziczenie — Nowy Teatr</title>
+  <meta name="description" content="Baza zdjęć projektu miastodziczenie rozmieszczonych na mapie Warszawy.">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/maplibre-gl/4.7.1/maplibre-gl.min.css">
+  <link rel="stylesheet" href="assets/style.css">
+  <link rel="icon" href="data:,">
+</head>
+<body>
+  <!--
+    Cała aplikacja mieści się w #miastodziczenie.
+    Ścieżki są względne, więc folder można umieścić pod dowolnym adresem
+    (np. https://nowyteatr.org/pl/miastodziczenie/).
+  -->
+  <div id="miastodziczenie" class="md">
+    <aside class="md-panel" aria-label="Filtry">
+      <header class="md-head">
+        <h1 class="md-title" data-md="tytul">miastodziczenie</h1>
+        <p class="md-sub" data-md="podtytul"></p>
+        <button class="md-toggle" type="button" aria-expanded="true" aria-controls="md-filters">Tagi</button>
+      </header>
+
+      <div class="md-filters" id="md-filters">
+        <div class="md-row">
+          <span class="md-label">Pokaż zdjęcia, które mają</span>
+          <div class="md-mode" role="radiogroup" aria-label="Tryb filtrowania">
+            <button type="button" role="radio" data-mode="any" aria-checked="true">dowolny</button>
+            <button type="button" role="radio" data-mode="all" aria-checked="false">wszystkie</button>
+          </div>
+          <span class="md-label">z zaznaczonych tagów:</span>
+        </div>
+
+        <ul class="md-tags" aria-label="Tagi"></ul>
+
+        <div class="md-row md-actions">
+          <button type="button" data-act="all">zaznacz wszystkie</button>
+          <button type="button" data-act="none">odznacz wszystkie</button>
+        </div>
+
+        <p class="md-count" aria-live="polite"></p>
+      </div>
+    </aside>
+
+    <div class="md-map" aria-label="Mapa Warszawy ze zdjęciami"></div>
+
+    <section class="md-viewer" hidden aria-label="Podgląd zdjęcia">
+      <button type="button" class="md-close" aria-label="Zamknij">×</button>
+      <figure>
+        <a class="md-img-link" target="_blank" rel="noopener"><img alt=""></a>
+        <figcaption>
+          <ul class="md-viewer-tags"></ul>
+          <p class="md-desc"></p>
+          <p class="md-meta"></p>
+        </figcaption>
+      </figure>
+      <nav class="md-nav">
+        <button type="button" data-step="-1" aria-label="Poprzednie">← poprzednie</button>
+        <span class="md-pos"></span>
+        <button type="button" data-step="1" aria-label="Następne">następne →</button>
+      </nav>
+    </section>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/maplibre-gl/4.7.1/maplibre-gl.min.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>
